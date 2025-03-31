@@ -14,7 +14,7 @@
   <a href="https://github.com/nikiarohK/Telegram_Channel_Reposter_Bot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikiarohK&repo=Telegram_Channel_Reposter_Bot&theme=dark" />
   </a>
-  <a href="https://github.com/nikiarohK/REPO2](https://github.com/nikiarohK/Telegram_Channel_Analytics_Bot">
+  <a href="https://github.com/nikiarohK/Telegram_Channel_Analytics_Bot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikiarohK&repo=Telegram_Channel_Analytics_Bot&theme=dark" />
   </a>
   <a href="https://github.com/nikiarohK/Tg_Bot_Shop">
