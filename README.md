@@ -14,14 +14,11 @@
   <a href="https://github.com/nikiarohK/Telegram_Channel_Reposter_Bot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikiarohK&repo=Telegram_Channel_Reposter_Bot&theme=dark" />
   </a>
-  <a href="https://github.com/nikiarohK/REPO2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikiarohK&repo=REPO2&theme=radical" />
+  <a href="https://github.com/nikiarohK/REPO2](https://github.com/nikiarohK/Telegram_Channel_Analytics_Bot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikiarohK&repo=Telegram_Channel_Analytics_Bot&theme=dark" />
   </a>
-  <a href="https://github.com/nikiarohK/REPO3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikiarohK&repo=REPO3&theme=radical" />
-  </a>
-  <a href="https://github.com/nikiarohK/REPO4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikiarohK&repo=REPO4&theme=radical" />
+  <a href="https://github.com/nikiarohK/Tg_Bot_Shop">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikiarohK&repo=Tg_Bot_Shop&theme=dark" />
   </a>
 </div>
 
@@ -33,7 +30,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikiarohK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nikiarohK&icon=0&color=0)](https://visitcount.itsvg.in)
