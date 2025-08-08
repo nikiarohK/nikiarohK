@@ -11,7 +11,7 @@
 # Мои проекты
 
 <div align="center">
-  <a href="https://github.com/nikiarohK/Telegram_Channel_Reposter_Bot">
+  <a href="https://github.com/nikiarohK/crm-system.git">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikiarohK&repo=Telegram_Channel_Reposter_Bot&theme=dark" />
   </a>
   <a href="https://github.com/nikiarohK/Telegram_Channel_Analytics_Bot">
